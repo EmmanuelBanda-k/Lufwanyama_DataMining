@@ -1,0 +1,864 @@
+Statement of Cash Receipts and Payments for the Bi-annual Year 2025 compared to the Financial Year ending 31 st December 2024
+2025 2024
+Kwacha Kwacha
+RECEIPTS
+     Local taxes 2 4,203,878                                      17,669,598                                       
+     Fees and Charges 3 2,963,153                                      3,968,778                                         
+     Licences 4 28,959                                           498,966                                            
+     Levies 5 668,179                                         269,427                                            
+     Permits 6 95,714                                           615,632                                            
+     Local Government Equalisation Fund 7 4,280,580                                      10,484,285                                       
+     Constituency Development Fund 8 20,824,726                                    28,176,276                                       
+     Other Grants 9 15,079,212                                    9,527,846                                         
+     Borrowings 10 -                                                 -                                                    
+     Commercial Venture 11 87,357                                           26,723                                              
+     Sector Grants ( Devolved Function) 12 2,577,797                                      3,465,396                                         
+     Other Receipts 13 650,784                                         581,657                                            
+TOTAL RECEIPTS 51,460,339                                    75,284,584                                       
+PAYMENTS
+     Personnel Emoluments 14 7,453,506                                      17,059,207                                       
+     Use of goods and services 15 15,483,612                                    24,282,516                                       
+     Financial Charges 16 -                                                 -                                                    
+     Social benefits 17 20,860,456                                    6,797,255                                         
+     Non-financial   Assets  Acquisition 18 10,803,714                                    29,659,083                                       
+     Financial  Assets 19 -                                                 2,515,000                                         
+     Loan Repayments 20 -                                                 -                                                    
+     Other payments 21 254,034                                         95,520                                              
+TOTAL PAYMENTS 54,855,322                                    80,408,581                                       
+Increase/(decrease) in Cash (3,394,983)                                     (5,123,997)                                        
+Foreign Exchange Losses 22 -                                                 -                                                    
+Cash at beginning of the year 23 11,038,365                                    16,162,362                                       
+Cash at the end of the year 24 7,643,382                                      11,038,365                                       
+Statement of Comparison of Budget and Actual Amounts for the Bi-annual Year 2025 compared to the Financial Year ending 31 st December 2024
+Original Budget Adjustments Final Budget Actual Amounts
+% 
+Performance Variance
+% 
+Variance
+Kwacha Kwacha Kwacha Kwacha Kwacha
+RECEIPTS
+     Local taxes 16,073,389                           -                                                 16,073,389                                 4,203,878                                         26% (11,869,511)                         -74%
+     Fees and Charges 5,446,770                             -                                                 5,446,770                                   2,963,153                                         54% (2,483,617)                           -46%
+     Licences 378,551                                -                                                 378,551                                      28,959                                              8% (349,592)                              -92%
+     Levies 714,626                                -                                                 714,626                                      668,179                                            94% (46,447)                                -6%
+     Permits 620,000                                -                                                 620,000                                      95,714                                              15% (524,286)                              -85%
+     Local Government Equalisation Fund 11,152,232                           -                                                 11,152,232                                 4,280,580                                         38% (6,871,652)                           -62%
+     Constituency Development Fund 36,058,151                           -                                                 36,058,151                                 20,824,726                                       58% (15,233,425)                         -42%
+     Other Grants 2,000,000                             -                                                 2,000,000                                   15,079,212                                       754% 13,079,212                          654%
+     Borrowings -                                        -                                                 -                                              -                                                    #DIV/0! -                                       #DIV/0!
+     Commercial Venture -                                        -                                                 -                                              87,357                                              #DIV/0! 87,357                                 #DIV/0!
+     Sector Grants ( Devolved Functions) 32,984,198                           -                                                 32,984,198                                 2,577,797                                         
+     Other Receipts -                                        -                                                 -                                              650,784                                            #DIV/0! 650,784                               #DIV/0!
+TOTAL RECEIPTS 105,427,917                         -                                                 105,427,917                               51,460,339                                       49% (23,561,177)                         -22%
+PAYMENTS
+     Personnel Emoluments 18,856,740                           -                                                 18,856,740                                 7,453,506                                         40% 11,403,234                          60%
+     Use of goods and services 59,623,000                           -                                                 59,623,000                                 15,483,612                                       26% 44,139,388                          74%
+     Financial Charges -                                        -                                                 -                                              -                                                    #DIV/0! -                                       #DIV/0!
+     Social benefits -                                                 -                                              20,860,456                                       #DIV/0! (20,860,456)                         #DIV/0!
+     Non-financial   Assets  Acquisition 20,480,910                           -                                                 20,480,910                                 10,803,714                                       53% 9,677,196                            47%
+     Financial  Assets 3,717,267                             -                                                 3,717,267                                   -                                                    0% 3,717,267                            100%
+     Loan Repayments -                                        -                                                 -                                              -                                                    #DIV/0! -                                       #DIV/0!
+     Other payments 2,750,000                             -                                                 2,750,000                                   254,034                                            9% 2,495,966                            91%
+TOTAL PAYMENTS 105,427,917                         -                                                 105,427,917                               54,855,322                                       52% 50,572,595                          48%
+Increase/(Decrease in Cash -                                        -                                                 -                                              (3,394,983)                                        (74,133,772)                         
+Statement of Cash Receipts and Payments for the Local Government Equalisation Fund (LGEF) for the Bi-annual Year 2025 compared to the Financial Year ending 31 st December 2024
+2025 2024
+KWACHA KWACHA
+RECEIPTS
+Funding 7(a) 4280580 10484285
+TOTAL RECEIPTS 4280580 10484285
+PAYMENTS
+Operational Expenditure Payments: 7(b)
+     Salaries and Wages 3452580 8828285
+     Terminal Benefits 0 0
+     Utility Bills 0 0
+     Service Provision 0 0
+     Goods and Services 0 0
+     Administrative Costs 828000 1656000
+     Other Costs 0 0
+Sub-Total 4280580 10484285
+Capital Expenditure Payments: 7(c)
+     Infrastructure Development 0 461315
+     Rehabilitation Works 0 0
+     Asset Acquisition 0 0
+     Other Costs 0 0
+Sub-Total 0 461315
+TOTAL PAYMENTS 4280580 10945600
+Increase/(decrease) in cash 0 -461315
+Cash at beginning of the year 8299 469614
+Cash at the end of the year 8299 8299
+Statement of Cash Receipts and Payments for the Constituency Development Fund (CDF) for the Bi-annual Year 2025 compared to the Financial Year ending 31 st December 2024
+2025 2024
+KWACHA KWACHA 
+RECEIPTS
+     Funding 8(a) 20,648,536                                    27,568,453                                       
+     Other Sources 8(b) 176,190                                         607,823                                            
+TOTAL RECEIPTS 20,824,726                                    28,176,276                                       
+PAYMENTS
+Administration 8(c) 1,770,726                                      3,420,935                                         
+Community Projects 8(d) 10,803,714                                    24,270,152                                       
+Youth, Women and Community Empowerment 8(e) -                                                 4,639,215                                         
+Boarding School and Skills Develop 8(f) 4,975,456                                      3,753,040                                         
+TOTAL PAYMENTS 17,549,896                                    36,083,342                                       
+Increase/(decrease) in Cash 3,274,830                                      (7,907,066)                                        
+Cash at beginning of the year 21,102                                           7,928,168                                         
+Cash at the end of the year 3,295,932                                      21,102                                              
+Statement of Cash Receipts and Payments for the Sector Grant (Devolved Function) for the Bi-annual Year 2025 compared to the Financial Year ending 31 st December 2024
+Note 2025 2024
+KWACHA KWACHA
+RECEIPTS
+Funding 12(a) 2,577,797                                      3,465,396                                         
+Other Receipts 12(b) -                                                 -                                                    
+TOTAL RECEIPTS 2,577,797                                      3,465,396                                         
+PAYMENTS 12( c )
+Goods and Services 1,716,312                                      3,416,420                                         
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+TOTAL PAYMENTS 1,716,312                                      3,416,420                                         
+Increase/(decrease) in Cash 861,485                                         48,976                                              
+Foreign Exchange Losses
+Cash at beginning of the year 48976 0
+Cash as at the end of the year 910,461                                         48,976                                              
+Statement of Cash Receipts and Payments for ZDSP Capital Grant for the Bi-annual Year 2025 compared to the Financial Year ending 31 st December 2024
+Note 2025 2024
+KWACHA KWACHA
+RECEIPTS
+Funding 9(b) -                                                 2,694,737                                         
+Other Receipts -                                                 -                                                    
+TOTAL RECEIPTS -                                                 2,694,737                                         
+PAYMENTS
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 1,413,143                                         
+Rehabilitation Works -                                                 -                                                    
+TOTAL PAYMENTS -                                                 1,413,143                                         
+Increase/(decrease) in Cash -                                                 1,281,594                                         
+Foreign Exchange Losses
+Cash at beginning of the year 1,281,594                                      
+Cash as at the end of the year 1,281,594                                      1,281,594                                         
+NOTES
+Local Taxes 2
+Local Tax Type 2025 2024
+KWACHA KWACHA
+Residential Rates 16,183                                           23,421                                              
+Commercial Rates 574,792                                         349,642                                            
+Industrial  Rates -                                                 -                                                    
+Hospitality Rates -                                                 -                                                    
+Mining Rates 3,582,163                                      17,209,614                                       
+Power Transmission Rates -                                                 -                                                    
+Plant and Machinery -                                                 -                                                    
+Personal Levy 30,740                                           86,921                                              
+TOTAL 4,203,878                                      17,669,598                                       
+Fees and Charges 3
+2025 2024
+KWACHA KWACHA
+Fees and Charges a 1,465,158                                      2,747,345                                         
+Land Development Charges b 1,497,995                                      1,221,433                                         
+Total 2,963,153                                      3,968,778                                         
+a
+Fees and Charges Type 2025 2024
+KWACHA KWACHA
+Consent Fees 1,105,400                                      1,935,201                                         
+Survey Fees -                                                 -                                                    
+Building Inspection fees -                                                 5,742                                                
+Plan Scrutiny Fees -                                                 -                                                    
+Rentals/Lease of Council's properties 24,730                                           100,790                                            
+Application Form Fees -                                                 10,765                                              
+Sketch Fees -                                                 -                                                    
+Search Fees 500                                                2,073                                                
+Market Fees -                                                 -                                                    
+Parking Fees -                                                 -                                                    
+Bus Station Fees -                                                 -                                                    
+Affidavit Fees -                                                 -                                                    
+Grave Reservation -                                                 -                                                    
+Refuse Disposal Fees 2,100                                             3,200                                                
+Notice of Marriage -                                                 1,000                                                
+Abbattoir/Meat Inspection Fees -                                                 -                                                    
+Farm Produce Levy 17,055                                           336,342                                            
+Communication Mast Levy -                                                 125,000                                            
+Land Record -                                                 -                                                    
+Billboard and Banner -                                                 -                                                    
+Lease of Council Transport -                                                 15,700                                              
+Ilegal Vending Fees -                                                 -                                                    
+Penalties 1,900                                             1,300                                                
+Site Rent 14,249                                           41,840                                              
+Change of ownership of plot -                                                 -                                                    
+Other Fees and Charges/other income 299,224                                         168,392                                            
+TOTAL 1,465,158                                      2,747,345                                         
+If Other, Comment
+Land Development Charges b
+Charges Type 2025 2024
+KWACHA KWACHA
+Service charges - Residential plots -                                                 -                                                    
+Service charges - Industrial plots -                                                 -                                                    
+Premium plots - Residential 863,032                                         675,480                                            
+Premium plots - Commercial 583,738                                         545,953                                            
+Lease charges -                                                 -                                                    
+Laying of Cables (Power/Communication) -                                                 -                                                    
+Land Application Charges -                                                 -                                                    
+Land Conversion -                                                 -                                                    
+Change of Ownership -                                                 -                                                    
+Sub-division of plot -                                                 -                                                    
+Land regularisation -                                                 -                                                    
+Change of Land use -                                                 -                                                    
+Land charges 51,225                                           -                                                    
+TOTAL 1,497,995                                      1,221,433                                         
+Licenses 4
+Licence Type 2025 2024
+KWACHA KWACHA
+Manufacturers licence -                                                 -                                                    
+Retail licence -                                                 -                                                    
+Wholesale licence -                                                 -                                                    
+Occupancy licence -                                                 -                                                    
+Commercial travellers licence -                                                 -                                                    
+Hawkers licence -                                                 -                                                    
+Peddlers licence -                                                 -                                                    
+Stall licence -                                                 -                                                    
+Liquor licence 309                                                4,232                                                
+Firearm and ammunition licence 1,650                                             14,250                                              
+Petroleum licence 27,000                                           476,434                                            
+Restaurant licence -                                                 -                                                    
+Dog licence -                                                 4,050                                                
+Other licences -                                                 -                                                    
+TOTAL 28,959                                           498,966                                            
+If Other, Comment
+Levies 5
+Type of Levy 2025 2024
+KWACHA KWACHA
+Livestock Levy 4,965                                             36,975                                              
+Bird Levy -                                                 -                                                    
+Fish Levy -                                                 -                                                    
+Pole Levy -                                                 -                                                    
+Charcoal Levy 73,224                                           164,159                                            
+Sand Levy -                                                 -                                                    
+Grave reservation Levy -                                                 -                                                    
+Quarry Levy -                                                 -                                                    
+Bicycle Levy -                                                 -                                                    
+Timber Levy 438,910                                         65,593                                              
+Telecommunication Mast Levy -                                                 -                                                    
+Cane Levy -                                                 -                                                    
+Stone Levy -                                                 -                                                    
+Coal Levy -                                                 -                                                    
+Hide/Exotice Levy -                                                 -                                                    
+Grain Levy 117,323                                         -                                                    
+Trading (Wholesale) Business Levy -                                                 -                                                    
+Trading (Retail) Business Levy -                                                 -                                                    
+Retail Merchants non-consumable business 33,757                                           -                                                    
+Trading (Retail) chain stores and supermarkets -                                                 -                                                    
+Manufacturing -                                                 -                                                    
+Agent Consumables -                                                 -                                                    
+Agent non-Consumables -                                                 -                                                    
+Trading (Retail) Automobiles -                                                 -                                                    
+Theatre's and cinematography -                                                 -                                                    
+Hawker -                                                 -                                                    
+Peddler -                                                 -                                                    
+Filling Station -                                                 -                                                    
+Professional Occupation -                                                 -                                                    
+Scrap Metal Dealers -                                                 -                                                    
+Car Wash -                                                 -                                                    
+Hospitality -                                                 -                                                    
+Commercial Banks -                                                 -                                                    
+Micro-finance and Money-Lenders -                                                 -                                                    
+Miscellaneous levies -                                                 2,700                                                
+TOTAL 668,179                                         269,427                                            
+If Miscellaneous, Comment
+Permits 6
+Type of Permit 2025 2024
+KWACHA KWACHA
+Health Permit 31,404                                           173,424                                            
+Permit for opaque beer -                                                 -                                                    
+Herbalist permit -                                                 -                                                    
+Transportation of Milk products -                                                 -                                                    
+Transportation of Meat products -                                                 -                                                    
+Transport of opaque -                                                 -                                                    
+Nursary, pre-school permits -                                                 -                                                    
+Burial permits and grave sites -                                                 -                                                    
+Fire certificate 64,310                                           336,254                                            
+Extension of Business hours permits -                                                 -                                                    
+Social Gathering permit -                                                 -                                                    
+Exploration permit -                                                 -                                                    
+Primary, Secondary and Tertiary permits -                                                 -                                                    
+Other Permits -                                                 105,954                                            
+Other Fees & Charges are Charges on Transportation of Copper Ore and Quatz
+TOTAL 95,714                                           615,632                                            
+If Other, Comment
+Local Government Equalisation Fund 7
+2025 2024
+Funding a KWACHA KWACHA
+1st Funding 900,561                                         908,022                                            
+2nd Funding 840,124                                         904,229                                            
+3rd Funding 899,192                                         850,650                                            
+4th Funding 881,523                                         900,816                                            
+5th Funding 759,180                                         907,726                                            
+6th Funding -                                                 854,366                                            
+7th Funding -                                                 854,366                                            
+8th Funding -                                                 903,030                                            
+9th Funding -                                                 850,779                                            
+10th Funding -                                                 850,650                                            
+11th Funding -                                                 848,926                                            
+12th Funding -                                                 850,725                                            
+Other Funding -                                                 -                                                    
+Total 4,280,580                                      10,484,285                                       
+If Other, Comment
+Operational Expenditure Payments b 2025 2024
+KWACHA KWACHA
+     Salaries and Wages 3,452,580                                      8,828,285                                         
+     Terminal Benefits -                                                 -                                                    
+     Utility bills -                                                 -                                                    
+     Service Provision -                                                 -                                                    
+     Goods and Services -                                                 -                                                    
+     Administrative Costs 828,000                                         1,656,000                                         
+     Other Costs -                                                 -                                                    
+Sub-Total 4,280,580                                      10,484,285                                       
+If Other, Comment
+2025 2024
+Capital Expenditure Payments c KWACHA KWACHA
+     Infrastructure Development -                                                 461,315                                            
+     Rehabilitation Works -                                                 -                                                    
+     Asset Acquisition -                                                 -                                                    
+     Other Costs -                                                 -                                                    
+Sub-Total -                                                 461,315                                            
+If Other, Comment
+Constituency Development Fund 8
+CDF Funding a
+2025 2024
+Constituency KWACHA KWACHA
+Lufwanyama 20,648,536                                    27,568,453                                       
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Funding 20,648,536                                    27,568,453                                       
+Other CDF Sources of Funding b
+2025 2024
+Constituency KWACHA KWACHA
+Lufwanyama 176,190                                         607,823                                            
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Other sources 176,190                                         607,823                                            
+Administration c
+2025 2024
+Constituency KWACHA KWACHA
+Lufwanyama 1,770,726                                      3,420,935                                         
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Administrative costs 1,770,726                                      3,420,935                                         
+Community Projects d
+2025 2024
+Constituency KWACHA KWACHA
+Lufwanyama 10,803,714                                    24,270,152                                       
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Community Projects 10,803,714                                    24,270,152                                       
+Youth, Women & Community Empowerment e
+2025 2024
+Constituency KWACHA KWACHA
+Lufwanyama -                                                 2,124,215                                         
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Youth, Women & Community Empowerment -                                                 2,124,215                                         
+ Note 8 (e) has captured only Empowerment 
+Grants, while Empowerment Loans are captured 
+in note 19 2025 2024
+KWACHA KWACHA
+Value of Loans -                                                      2,515,000                                              
+Boarding School & Skills Development f
+2025 2024
+Constituency KWACHA KWACHA
+Lufwanyama 4,975,456                                      3,753,040                                         
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Boarding School & Skills Development 4,975,456                                      3,753,040                                         
+Other Grants 9 (a)
+ 2025 2024
+Kwacha Kwacha
+RECEIPTS
+     Cash for work 15,079,212                                    3,640,755                                         
+      Grants in Lieu of Rates -                                                 77,100                                              
+      Grants from Cooperating Partners -                                                 -                                                    
+     Roads Grants -                                                 1,715,472                                         
+     Health Grants -                                                 1,399,782                                         
+     Abbattoir/Meat inspection/Other -                                                 -                                                    
+TOTAL RECEIPTS 15,079,212                               6,833,109                                   
+If Other, Comment
+PAYMENTS
+     Cash for work 
+     Cash for work - Beneficiaries 15,000,000                                    500,000                                            
+     Roads rail air fares 36,000                                           9,000                                                
+     Fuel oil and lubricants 1,293,282                                      664,278                                            
+     Internet Charges -                                                 -                                                    
+     Stationery 119,600                                         73,000                                              
+     Allowances 885,000                                         420,000                                            
+     Hiring Charges -                                                 -                                                    
+     Hand tools and equipment -                                                 268,000                                            
+     Bank Charges -                                                 -                                                    
+      Grants in Lieu of Rates
+     Services -                                                 -                                                    
+     Roads rail air fares -                                                 -                                                    
+     Fuel oil and lubricants -                                                 -                                                    
+     Internet Charges -                                                 -                                                    
+     Stationery -                                                 -                                                    
+     Allowances -                                                 -                                                    
+     Hiring Charges -                                                 -                                                    
+     Hand tools and equipment -                                                 -                                                    
+     Bank Charges -                                                 -                                                    
+      Grants from Cooperating Partners
+     Services -                                                 -                                                    
+     Infrastructure Development -                                                 -                                                    
+     Asset Acquisition -                                                 -                                                    
+     Rehabilitation -                                                 -                                                    
+     Roads rail air fares -                                                 -                                                    
+     Fuel oil and lubricants -                                                 -                                                    
+     Internet Charges -                                                 -                                                    
+     Stationery -                                                 -                                                    
+     Allowances -                                                 -                                                    
+     Hiring Charges -                                                 -                                                    
+     Hand tools and equipment -                                                 -                                                    
+     Bank Charges -                                                 -                                                    
+     Roads Grants 
+     Road Maintenance Materials -                                                 -                                                    
+     Roads rail air fares -                                                 -                                                    
+     Protective wear and clothing -                                                 -                                                    
+     Fuel oil and lubricants -                                                 -                                                    
+     Internet Charges -                                                 -                                                    
+     Stationery -                                                 -                                                    
+     Motor vehicle repairs -                                                 -                                                    
+     Upgrading of bridges -                                                 -                                                    
+     Allowances -                                                 -                                                    
+     Hiring Charges -                                                 -                                                    
+     Bank Charges -                                                 -                                                    
+     Health Grants 
+     Drugs, Vaccines (Health) -                                                 -                                                    
+     Roads rail air fares -                                                 -                                                    
+     Internet Charges -                                                 -                                                    
+     Stationery -                                                 -                                                    
+     Motor vehicle repairs -                                                 -                                                    
+     Allowances -                                                 -                                                    
+     Hiring Charges -                                                 -                                                    
+     Bank Charges -                                                 -                                                    
+     Abbattoir/Meat inspection/Other
+     Drugs, Vaccines (Veterinary) -                                                 -                                                    
+     Internet Charges -                                                 -                                                    
+     Fuel oil and lubricants -                                                 -                                                    
+     Veterinary material -                                                 -                                                    
+     Stationery -                                                 -                                                    
+     Motor vehicle repairs -                                                 -                                                    
+     Bank Charges -                                                 -                                                    
+     Roads rail air fares -                                                 -                                                    
+     Allowances -                                                 -                                                    
+TOTAL PAYMENTS 2,333,882                                      1,434,278                                         
+Increase/(decrease) in Cash 12,745,330                                    5,398,831                                         
+Cash at beginning of the year 5,398,831                                      
+Cash at the end of the year 18,144,161                                    5,398,831                                         
+ZDSP 9(b) 2025 2024
+KWACHA KWACHA
+RECEIPTS
+Funding -                                                 2,694,737                                         
+Other Receipts -                                                 -                                                    
+TOTAL RECEIPTS -                                                 2,694,737                                         
+PAYMENTS
+Non-financial   Assets  Acquisition
+Equipment -                                                 -                                                    
+Plant & Machinery -                                                 -                                                    
+Specialised Motor Vehicles -                                                 -                                                    
+Infrastructure Development
+Const. of Feeder Roads -                                                 -                                                    
+Const. of Market Shelters -                                                 1,413,143                                         
+Const. of Bus Stations -                                                 -                                                    
+Const. of Boreholes -                                                 -                                                    
+Const. of Ablution Blocks -                                                 -                                                    
+Const. of Community Halls -                                                 -                                                    
+Const. of Street Lights -                                                 -                                                    
+Const. of Water Schemes -                                                 -                                                    
+Const. of Radio Station -                                                 -                                                    
+Const. of Storage Shades -                                                 -                                                    
+Rehabilitation Works
+Rehab. of Feeder Roads -                                                 -                                                    
+Rehab. of Market Shelters -                                                 -                                                    
+Rehab. of Bus Stations -                                                 -                                                    
+Rehab. of Boreholes -                                                 -                                                    
+Rehab. of Ablution Blocks -                                                 -                                                    
+Rehab. of Community Halls -                                                 -                                                    
+Rehab. of Street Lights -                                                 -                                                    
+Rehab. of Water Schemes -                                                 -                                                    
+Rehab. of Radio Station -                                                 -                                                    
+Rehab. of Storage Shades -                                                 -                                                    
+TOTAL PAYMENTS -                                                 1,413,143                                         
+Increase/(decrease) in Cash -                                                 1,281,594                                         
+Foreign Exchange Losses -                                                 -                                                    
+Cash at beginning of the year 1,281,594                                      -                                                    
+Cash as at the end of the year 1,281,594                                      1,281,594                                         
+Borrowings 10
+Details 2025 2024
+KWACHA KWACHA
+Payment of retirees -                                                 -                                                    
+Investment in commercial shop block for rent -                                                 -                                                    
+Investment in truck parking bay -                                                 -                                                    
+Investment in Abattoirs -                                                 -                                                    
+Investment in Taverns renovations -                                                 -                                                    
+Investments in shops for rent -                                                 -                                                    
+Other Borrowings -                                                 -                                                    
+TOTAL -                                                 -                                                    
+If Other, Comment
+Council Commercial Venture 11
+2025 2024
+Receipts KWACHA KWACHA
+Restaurant Sales Receipts 252,700                                         880,189                                            
+Lodging receipts 210,000                                         -                                                    
+Food and beverages sales receipts 207,996                                         754,820                                            
+Others -                                                 -                                                    
+TOTAL 670,696                                         1,635,009                                         
+Payments
+Restaurant purchaes 396,100                                         639,697                                            
+Beer and beverages 175,600                                         837,200                                            
+wages -                                                 -                                                    
+Others 11,639                                           131,389                                            
+TOTAL 583,339                                         1,608,286                                         
+Surplus/deficit 87,357                                           26,723                                              
+Sector Grants (Devolved Functions) 12
+2025 2024
+Receipts  KWACHA  KWACHA 
+Primary care services 1,223,460                                      1,399,782                                         
+Pontoons, Ferries, Jetties and Piers
+Community sport 86,207                                           237,069                                            
+Cultural matters 
+District Archives 8,958                                             70,052                                              
+Veterinary Services 162,053                                         43,022                                              
+Vehicle Licensing 1,000,000                                      1,715,471                                         
+Harbours
+District livestock service -                                                    
+District Fisheries services -                                                    
+District agriculture services 97,119                                           -                                                    
+District community development services -                                                 -                                                    
+District social welfare services -                                                 -                                                    
+Other Receipts -                                                 -                                                    
+TOTAL 2,577,797                                      3,465,396                                         
+If Other, Comment
+2025 2024
+Payments  KWACHA  KWACHA 
+Primary care services 
+Goods and Services 1,420,543                                      1,390,243                                         
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+Pontoons, Ferries, Jetties and Piers
+Goods and Services -                                                 -                                                    
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+Community sport 
+Goods and Services 97,500                                           228,303                                            
+Non-financial   Assets  Acquisition -                                                 
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+Cultural matters 
+Goods and Services -                                                 -                                                    
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+District Archives 
+Goods and Services 21,880                                           5,912                                                
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+Veterinary Services
+Goods and Services -                                                 75,488                                              
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+Vehicle Licensing 
+Goods and Services -                                                 1,716,474                                         
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+Harbours
+Goods and Services -                                                 -                                                    
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+District livestock service
+Goods and Services -                                                 -                                                    
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+District Fisheries services 
+Goods and Services -                                                 -                                                    
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+District agriculture services
+Goods and Services 176,389                                         -                                                    
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+District community development services
+Goods and Services -                                                 -                                                    
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+District social welfare services
+Goods and Services -                                                 -                                                    
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+Other Receipts
+Goods and Services -                                                 -                                                    
+Non-financial   Assets  Acquisition -                                                 -                                                    
+Infrastructure Development -                                                 -                                                    
+Rehabilitation Works -                                                 -                                                    
+TOTAL 1,716,312                                      3,416,420                                         
+Other Receipts 13 2025 2024
+Description KWACHA KWACHA
+Veterinary local Deposits 7,437                                             12,273                                              
+Interest received 643,347                                         569,384                                            
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Other Receipts 650,784                                         581,657                                            
+Personal Emoluments 14
+Grade 2025 2024
+KWACHA KWACHA
+Salaries Division 1 2,087,645                                      4,217,197                                         
+Salaries Division 2 410,989                                         3,909,369                                         
+Salaries Division 3 828,000                                         77,456                                              
+Wages- Division 4 -                                                 
+Councillors allowances -                                                 
+Other wages 203,192                                         
+Terminal benefits 53,700                                           
+Personnel emoluments -                                                 -                                                    
+Other allowances 417,400                                         26,900                                              
+TOTAL 4,000,926                                      8,230,922                                         
+If Other, Comment
+Use of Goods and Services 15
+Expenditure Type 2025 2024
+KWACHA KWACHA
+Office Running Costs 992,980                                         815,857                                            
+Building, Repair and Maintenance Costs 493,770                                         374,844                                            
+Plant, Machinery and Vehicle Running and Maintenance Cost 2,755,361                                      2,316,326                                         
+Other Administrative operating costs 282,366                                         2,457,115                                         
+Requisites 120,871                                         754,696                                            
+Services 4,673,040                                      5,488,743                                         
+Travel expenses 401,304                                         2,567,302                                         
+Training
+Medical costs -                                                 -                                                    
+Other costs -                                                    
+TOTAL 9,719,692                                      14,774,883                                       
+If Other, Comment
+Financial Charges 16
+2025 2025
+KWACHA KWACHA
+Interest on Internal Debt -                                                 -                                                    
+Interest on External Debt -                                                 -                                                    
+Other Interest -                                                 -                                                    
+TOTAL -                                                 -                                                    
+If Other, Comment
+Social Benefits 17
+Social Benefits 2025 2024
+KWACHA KWACHA
+Empowerment Grants -                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Social Benefits -                                                 -                                                    
+Non-financial   Assets  Acquisition 18
+2025 2024
+KWACHA KWACHA
+     Purchase of motor vehicles -                                                 -                                                    
+     Equipment -                                                 180,319                                            
+     Furniture -                                                 17,650                                              
+     Plant & Machinery -                                                 3,185,773                                         
+     Building -                                                    
+     Specialised Motor Vehicles -                                                 -                                                    
+     other assets -                                                 130,731                                            
+TOTAL -                                                 3,514,473                                         
+If Other, Comment
+Financial Asset 19
+2025 2024
+KWACHA KWACHA
+Purchase of Long term investments -                                                 -                                                    
+Collections from debtors -                                                 -                                                    
+CDF Empowerments Loans -                                                 2,515,000                                         
+VAT refunds -                                                 -                                                    
+Other financial asset acquisition -                                                 -                                                    
+TOTAL -                                                 2,515,000                                         
+If Other, Comment
+Loan Repayments 20
+2025 2024
+KWACHA KWACHA
+Eg. Repayment of ZANACO Loan -                                                 -                                                    
+Other Wages are Contracted staff wages and Other allowances are Settling in allowances 
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+TOTAL -                                                 -                                                    
+Other Payments 21
+2025 2024
+KWACHA KWACHA
+NAPSA Arrears 200,334                                         30,000                                              
+Terminal Benefits 53,700                                           65,520                                              
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Other Payments 254,034                                         95,520                                              
+Foreign Exchange Losses 22
+2025 2024
+Account Name KWACHA KWACHA
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+Total Foreign Exchange Gains/Losses -                                                 -                                                    
+Cash Balances 23
+2024 2025
+KWACHA KWACHA
+Cash on hand a -                                                 -                                                    
+Demand Deposits b 7,643,382                                      11,038,365                                       
+Cash equivalents c -                                                 -                                                    
+TOTAL 7,643,382                                      11,038,365                                       
+-                                                      -                                                          
+Cash on hand a
+2025 2024
+KWACHA KWACHA
+Cash collections undeposited -                                                 -                                                    
+Petty Cash -                                                 -                                                    
+TOTAL -                                                 -                                                    
+Demand Deposits – Bank Balances b
+Account Name Account No 2025 2024
+KWACHA KWACHA
+District Fund 20,684                                           3,852,906                                         
+Capital Funds 785,241                                         1,289,893                                         
+Rural Water & Sanitation 3,119                                             6,760                                                
+Projects Fund 5,140                                             5,200                                                
+Service Charges 178,864                                         299,439                                            
+Fire Service 12,506                                           20,237                                              
+Revolving Funds 798                                                33,437                                              
+Operations Funds 29,545                                           299                                                   
+Devoved Sector Grants 3,221,957                                      5,447,807                                         
+Ward Dev Fund 2,238                                             34,561                                              
+Constituecy Dev Funds 3,236,033                                      6,109                                                
+Constituecy Dev  Revolving Funds 59,900                                           14,994                                              
+Commercial Venture 87,357                                           26,723                                              
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+TOTAL 7,643,382                                      11,038,365                                       
+Cash Equivalents c
+2025 2024
+Description KWACHA KWACHA
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+-                                                 -                                                    
+TOTAL -                                                 -                                                    
+Budget Adjustments and Variances 24
+Approved Supplementary Approved Variations Total Adjustments
+Kwacha Kwacha Kwacha
+RECEIPTS
+     Local taxes -                                                 -                                              -                                                    
+     Fees and Charges -                                                 -                                              -                                                    
+     Licences -                                                 -                                              -                                                    
+     Levies -                                                 -                                              -                                                    
+     Permits -                                                 -                                              -                                                    
+     Local Government Equalisation Fund -                                                 -                                              -                                                    
+     Constituency Development Fund -                                                 -                                              -                                                    
+     Other Grants -                                                 -                                              -                                                    
+     Borrowings -                                                 -                                              -                                                    
+     Commercial Venture -                                                 -                                              -                                                    
+    Sector Grants ( Devolved Functions ) -                                                 -                                              -                                                    
+    Other Receipts -                                                 -                                              -                                                    
+TOTAL RECEIPTS -                                                 -                                              -                                                    
+PAYMENTS
+     Personal Emoluments -                                                 -                                              -                                                    
+     Use of goods and services -                                                 -                                              -                                                    
+     Financial Charges -                                                 -                                              -                                                    
+     Social benefits -                                                 -                                              -                                                    
+     Non-financial   Assets  Acquisition -                                                 -                                              -                                                    
+     Financial  Assets -                                                 -                                              -                                                    
+     Loan Repayments -                                                 -                                              -                                                    
+     Other payments -                                                 -                                              -                                                    
+TOTAL EXPENDITURE -                                                 -                                              -                                                    
+25
+DEBT and ARREARS
+ OUTSTANDING AMOUNTS  OUTSTANDING AMOUNTS 
+1-Jan-2025 30-Jun-2025
+ZMW ZMW
+  PE'S  -                                                 -                                              
+  ZAMTEL  -                                                 -                                              
+  ZESCO  -                                                 -                                              
+  WATER   -                                                 -                                              
+ LEGAL COSTS -                                                 -                                              
+ NAPSA ARREARS 1,872,057.00                                 1,872,057.00                              
+ NAPSA ARREARS - PENALTIES -                                                 -                                              
+ LASF ARREARS -                                                 -                                              
+ LASF ARREARS - PENALTIES -                                                 -                                              
+ OTHER PENSION ARREARS  -                                                 -                                              
+ OTHER PENSIONS ARREARS - 
+PENALTIES  -                                                 -                                              
+  ZRA PAYE  3,874,723.71                                 3,874,723.71                              
+  ZRA - PENALTIES  -                                                 -                                              
+  GOODS & SERVICES  950,366.09                                    950,366.09                                 
+  CAPITAL  14,901,408.27                               14,901,408.27                            
+Total 21,598,555.07                          21,598,555.07                       
+Narration
