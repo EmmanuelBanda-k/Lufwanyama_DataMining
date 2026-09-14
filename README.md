@@ -104,3 +104,58 @@ Exploratory Data Analysis
 Visualization
         ↓
 CSV Export
+```
+
+---
+
+## 6. Project Structure
+
+```text
+Lufwanyama_DataMining/
+├── README.md
+├── requirements.txt            # Python dependencies
+├── app.py                      # Interactive Streamlit dashboard
+├── data/
+│   ├── raw/                    # Downloaded PDFs and HTML pages
+│   ├── cleaned/
+│   │   └── extracted_text/     # Extracted PDF text
+│   └── final/                  # Pipe-separated CSV datasets
+├── documentation/
+│   └── data_description_paper.md
+├── notebooks/
+│   └── lufwanyama_data_mining.ipynb
+├── outputs/                    # Generated charts, reports
+└── scripts/
+    ├── collect_lufwanyama.py   # Web/PDF scraper
+    └── analyze_text_keywords.py # Text mining & word cloud
+```
+
+---
+
+## 7. Running
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Interactive dashboard
+
+```bash
+streamlit run app.py
+```
+
+The dashboard loads the four datasets in `data/final/` and renders
+interactive Plotly charts (CDF projects, budget, revenue/grants,
+development programmes) plus a text-insights panel.
+
+### Text mining
+
+```bash
+python scripts/analyze_text_keywords.py
+```
+
+Generates `outputs/text_keyword_frequency.csv`,
+`outputs/text_document_keyword_coverage.csv` and
+`outputs/lufwanyama_wordcloud.png` from the extracted council text.

@@ -1,0 +1,26 @@
+# Lufwanyama Town Council Data Mining & Warehousing
+# CSC 4792 - University of Zambia
+#
+# Install with:  pip install -r requirements.txt
+# Run the dashboard with:  streamlit run app.py
+
+# Data collection
+requests>=2.31
+beautifulsoup4>=4.12
+
+# PDF text extraction
+pypdf>=3.17
+
+# Data wrangling / analysis
+numpy>=1.26
+pandas>=2.0
+
+# Exploratory analysis & static charts
+matplotlib>=3.7
+
+# Interactive dashboard & charts
+plotly>=5.15
+streamlit>=1.25
+
+# Text mining / word cloud
+wordcloud>=1.8
